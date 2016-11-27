@@ -639,6 +639,7 @@ div h3 {
 													width: 100%;
 													background-color: #ffffff;
 													font-family: 'Georgia', serif;
+													position: static;
 												}
 
 												 .name {
